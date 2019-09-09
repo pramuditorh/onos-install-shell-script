@@ -1,5 +1,5 @@
 # ONOS Shell Script
-Automate Open Network Operating System (ONOS) using Shell Script. I use this script to overcome my laziness to installing ONOS.
+Automate Open Network Operating System (ONOS) using Shell Script.
 
 ## How to Use
 - Clone it.
@@ -8,6 +8,6 @@ Automate Open Network Operating System (ONOS) using Shell Script. I use this scr
 
 ## About the Project
 I use this script to overcome my laziness to install ONOS.
-
-Original ONOS installation tutorial: https://blog.zufardhiyaulhaq.com/installing-onos-the-right-way/
+  
+Original ONOS installation tutorial: https://blog.zufardhiyaulhaq.com/installing-onos-the-right-way/  
 Tested in Ubuntu 16.04.
