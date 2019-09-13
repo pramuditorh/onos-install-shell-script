@@ -1,4 +1,4 @@
-# ONOS Shell Script
+# ONOS Install Shell Script
 Automate Open Network Operating System (ONOS) installation using Shell Script.
 
 ## How to Use
