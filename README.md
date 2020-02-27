@@ -3,7 +3,7 @@ Automate Open Network Operating System (ONOS) installation using Shell Script.
 
 ## How to Use
 - Clone it.
-- ``` cd onos-shell-script ```
+- ``` cd onos-install-shell-script ```
 - ``` chmod +x onos.sh ```
 - ``` ./onos.sh ```
 
