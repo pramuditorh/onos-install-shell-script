@@ -37,7 +37,7 @@ if [ -f onos-1.14.0.tar.gz ]
 then
 	echo "onos 1.14.0 exist"
 else
-	sudo wget http://repo1.maven.org/maven2/org/onosproject/onos-releases/1.14.0/onos-1.14.0.tar.gz
+	sudo wget https://repo1.maven.org/maven2/org/onosproject/onos-releases/1.14.0/onos-1.14.0.tar.gz
 	sudo tar xzf onos-1.14.0.tar.gz
 	sudo mv onos-1.14.0 onos
 	sudo chown -R sdn:sdn onos
